@@ -1,5 +1,5 @@
 
-# 💳 Simple Console Banking System (Python)
+# 💳 Simple Console Banking System using Python
 
 A command-line banking system where users can log in and manage their balance. The program supports password management, balance inquiries, deposits, withdrawals, and money transfers between users.
 
